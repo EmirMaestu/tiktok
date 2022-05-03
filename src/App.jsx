@@ -6,7 +6,7 @@ function App() {
 
     return <div className='App'>
       <main>
-        tik tok clon
+        <h1>tik tok clon</h1>
       </main>
     </div>
 }
